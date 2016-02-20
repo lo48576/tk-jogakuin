@@ -19,7 +19,7 @@
 - `meta/`
   * このリポジトリや管理自体に関する情報や話題を記したファイルが配置される。
 
-== File formats
+=== File formats
 原則として、リッチなテキストはasciidocフォーマットが望ましい。が、markdownでもよい。
 
 本文だけは、例外としてplain text。
